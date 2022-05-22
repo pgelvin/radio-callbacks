@@ -1,6 +1,6 @@
 ## Radio Callbacks
 
-You can view the finished app here: https://xkcd-radio-callback.herokuapp.com/
+You can view the finished app here: https://radio-callbacks.herokuapp.com/
 
 ### Additional Reading
 * Take a moment to read my [Medium post about how to deploy this app](https://austinlasseter.medium.com/how-to-deploy-a-simple-plotly-dash-app-to-heroku-622a2216eb73)
