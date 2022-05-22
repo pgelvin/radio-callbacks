@@ -12,7 +12,7 @@ tabtitle = 'xkcd'
 list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
 list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
 sourceurl = 'https://xkcd.com/'
-githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
+githublink = 'https://github.com/pgelvin/radio-callbacks'
 
 
 ########## Set up the chart
